@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1187,22 +1187,22 @@
       <string id="background_audio">Audio de fondo</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
-      <string id="modern_video_settings_close">cerrar ajustes de video</string>
-      <string id="modern_video_playback_settings">Ajustes de reproducción del video</string>
-      <string id="acc_modern_video_volume">volumen del video</string>
-      <string id="acc_modern_video_fullscreen">video a pantalla completa</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="acc_modern_video_playback_speed">velocidad de reproducción</string>
-      <string id="modern_video_playback_speed_title">Velocidad de reproducción</string>
-      <string id="modern_video_captions_label">Subtítulos</string>
-      <string id="acc_modern_video_settings">ajustes del video</string>
-      <string id="acc_modern_video_captions">subtítulos del video</string>
-      <string id="acc_modern_video_pip">miniatura video</string>
-      <string id="acc_modern_video_pause">pausar video</string>
-      <string id="acc_modern_video_play">reproducir video</string>
-      <string id="acc_modern_video_mute">silenciar video</string>
-      <string id="modern_video_captions_on">Activado</string>
-      <string id="modern_video_captions_off">Desactivado</string>
+      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
+      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
+      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
+      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
+      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
+      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_captions_label">~caþţ~iøñš</string>
+      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
+      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
+      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
+      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
+      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
+      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
+      <string id="modern_video_captions_on">~øñ</string>
+      <string id="modern_video_captions_off">~øff</string>
       <string id="terms">Condiciones</string>
       <string id="glossary">Glosario</string>
       <string id="progress_hour">hora</string>
@@ -1254,7 +1254,7 @@
       <string id="acc_exit_fullscreen">Salir de pantalla completa (Ctrl+Alt+F)</string>
       <string id="acc_next_visual">Siguiente (Ctrl+Alt+.)</string>
       <string id="acc_mute">Silenciar (Ctrl+Alt+M)</string>
-      <string id="acc_playback_speed">Velocidad de reproducción</string>
+      <string id="acc_playback_speed">~þlaý~bacķ~ špe~ed</string>
       <string id="acc_replay">Volver a reproducir (Ctrl+Alt+R)</string>
       <string id="acc_slide_progress">progreso de la diapositiva</string>
       <string id="close">Cerrar</string>
@@ -1285,8 +1285,8 @@
       <string id="video_transcript_resume_autoscroll">Reanudar desplazamiento automático</string>
       <string id="video_transcript_select_track">Seleccionar pista</string>
       <string id="video_transcript_title">Transcripciones</string>
-      <string id="playback_speed_title">Velocidad de reproducción</string>
-      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">~Plaý~bacķ~ Sþe~ed</string>
+      <string id="playback_speed_normal">~Nøřӎ~al</string>
       <string id="streaming_video_local_playback_learn_more">Saber más</string>
       <string id="streaming_video_local_playback_republish">Para ver este video, utiliza la funcionalidad de previsualización en Storyline 360, sube tu curso publicado a un servidor, publica el curso en Review 360 o cambia a calidad de video estática.</string>
       <string id="streaming_video_local_playback_title">El video en streaming no está disponible para reproducción local.</string>
@@ -1307,16 +1307,7 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6SVzdn0sZsC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5gG79znnKej" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6gaOPeXKk29" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5eMpVVhChfC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lgU8lBuSBB" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.64NBHuWuwj3" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lZEeLMrmUt" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.63WA0vUjrQV" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lQSODGdIVQ" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.65hj0uwenBI" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
