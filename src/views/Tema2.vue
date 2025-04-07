@@ -15,23 +15,23 @@
             li 
               .lista-ol--cuadro__vineta.bgazuloscuro
                 span.texto-negro #[b 1]
-              span.mb-0 #[b CPU o unidad de memoria.] Procesa y almacena la información.
+              span.mb-0 #[b CPU o unidad de memoria:] procesa y almacena la información.
             li 
               .lista-ol--cuadro__vineta.bgazuloscuro
                 span.texto-negro #[b 2]
-              span.mb-0 #[b Gaveta.] Guarda el dinero, cheques y otros documentos de valor.
+              span.mb-0 #[b Gaveta:] guarda el dinero, cheques y otros documentos de valor.
             li 
               .lista-ol--cuadro__vineta.bgazuloscuro
                 span.texto-negro #[b 3]
-              span.mb-0 #[b Impresora.] Emite los tiquetes de compra que se entregan al cliente.
+              span.mb-0 #[b Impresora:] emite los tiquetes de compra que se entregan al cliente.
             li 
               .lista-ol--cuadro__vineta.bgazuloscuro
                 span.texto-negro #[b 4]
-              span.mb-0 #[b Visor.] Proporciona información visual al cliente.
+              span.mb-0 #[b Visor:] proporciona información visual al cliente.
             li 
               .lista-ol--cuadro__vineta.bgazuloscuro
                 span.texto-negro #[b 5]
-              span.mb-0 #[b Teclado.] Permite ingresar los datos necesarios para procesar las transacciones.
+              span.mb-0 #[b Teclado:] permite ingresar los datos necesarios para procesar las transacciones.
         .col-9.col-md-8.col-lg-4
           img(src='@/assets/curso/temas/tema2/imagen1.png', alt='')
   
@@ -116,7 +116,7 @@
                   img.mt-2(alt="" src="@/assets/curso/temas/tema2/sly1-3.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
-                  h4.mb-4 Sistema Neumático #[em (shut)]
+                  h4.mb-4 Sistema neumático #[em (shut)]
                   p.mb-4 El sistema neumático, conocido como #[em shut], consiste en una serie de conductos que conectan el puesto de pago con la caja general o tesorería. Su función es transportar una cápsula que contiene el dinero de las ventas realizadas. En los #[em retailers] que no disponen de este sistema, el dinero se envía con un directivo encargado de la recogida.
                 .col-lg-5.col-md-6.col-12
                   img.mt-2(alt="" src="@/assets/curso/temas/tema2/sly1-4.png")
@@ -209,8 +209,8 @@
                 .col-md-3.col-6
                   img(src='@/assets/curso/temas/tema2/slya1-4.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
-                  h4.mt-3 Stock
-                  p Stock adecuado de los útiles y provisiones necesarios para el desempeño de las funciones del cargo: plumas, grapas, engrapadora, clips, facturas, notas de venta, bolsas de diferentes tamaños, etc. Este stock debe ser manejado por el propio cajero.
+                  h4.mt-3 #[em Stock]
+                  p #[em Stock] adecuado de los útiles y provisiones necesarios para el desempeño de las funciones del cargo: plumas, grapas, engrapadora, clips, facturas, notas de venta, bolsas de diferentes tamaños, etc. Este #[em stock] debe ser manejado por el propio cajero.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
                   img(src='@/assets/curso/temas/tema2/slya1-5.png', alt='Texto que describa la imagen')

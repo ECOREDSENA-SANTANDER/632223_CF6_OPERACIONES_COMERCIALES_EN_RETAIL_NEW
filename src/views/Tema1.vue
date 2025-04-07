@@ -71,7 +71,7 @@
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/lt1-8.png', alt='').img125
               .col-lg.col-md.col-sm
-                p Realizar otras tareas a fines a su puesto de trabajo que le sean asignadas
+                p Realizar otras tareas a fines a su puesto de trabajo que le sean asignadas.
       
       p Además de las funciones expuestas previamente, se destaca una función fundamental, que es la organización del puesto de trabajo, cuyo proceso se detalla a continuación:
   
@@ -169,7 +169,7 @@
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Imprimir la información
-                  p Imprimir la información del balance de caja para verificar con lo que tiene físicamente: efectivo, cupones, Boucher de tarjetas, puntos, etc. Todo debe coincidir para entregar informe al supervisor.
+                  p Imprimir la información del balance de caja para verificar con lo que tiene físicamente: efectivo, cupones, #[em voucher] de tarjetas, puntos, etc. Todo debe coincidir para entregar informe al supervisor.
                 .col-md-4
                   img(src='@/assets/curso/temas/tema1/sly1-12.png', alt='Texto que describa la imagen')
   
@@ -183,7 +183,7 @@
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
                         h4.mb-1 Proceso general del cajero
-                        p.mb-0 Video ilustrativo: Aquí podrá profundizar sobre la temática. ¡Consúltelo!.
+                        p.mb-0 Video ilustrativo: aquí podrá profundizar sobre la temática. ¡Consúltelo!
                       .col-sm-auto
                         a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
                           span Ir al enlace
@@ -199,7 +199,7 @@
               .mb-4
                 .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
                   img.icon3(src='@/assets/curso/temas/icon.svg') 
-                  h3.col.px-4.mb-0.mx-2.text-white(data-aos="zoom-in-left") Ética del Cajero
+                  h3.col.px-4.mb-0.mx-2.text-white(data-aos="zoom-in-left") Ética del cajero
           p La ética empresarial ayuda a promover el fortalecimiento de los valores de una sociedad, y muchas empresas establecen un código de ética para asegurar que los empleados traten a los clientes con respeto y dignidad. Los cajeros en el #[em retail] están obligados a seguir estas normas éticas, asegurando que no abusen de su posición ni utilicen sus conocimientos para beneficio personal. 
           p El cajero debe ser una persona íntegra, honrada y responsable, comprometida con el buen manejo de equipos y materiales. Es responsable directo del manejo de dinero en efectivo, cheques y otros documentos de valor, manteniendo siempre un alto nivel de confidencialidad y profesionalismo frente a la organización.
           .row
@@ -208,7 +208,7 @@
               .mb-4
                 .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
                   img.icon3(src='@/assets/curso/temas/icon.svg') 
-                  h3.col.px-4.mb-0.mx-2.text-white(data-aos="zoom-in-left") Protocolo Institucional
+                  h3.col.px-4.mb-0.mx-2.text-white(data-aos="zoom-in-left") Protocolo institucional
           p En el #[em retail], el protocolo se refiere a un conjunto de normas, hábitos y costumbres institucionales que permiten a los empleados desenvolverse adecuadamente en las diferentes áreas de la organización. Cada empresa tiene su propio protocolo basado en sus políticas y objetivos, asegurando un entorno de trabajo ordenado y eficiente, donde todos los empleados conocen y cumplen con los estándares establecidos.
   
       

@@ -112,7 +112,7 @@
             figure
               .video
                 iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/0te5WfUyur0?si=w2X8tX-RXNMbuJ-d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-              figcaption Video: Razones para utilizar el pago en línea.
+              figcaption Video: Razones para utilizar el pago en línea
   
   </template>
 

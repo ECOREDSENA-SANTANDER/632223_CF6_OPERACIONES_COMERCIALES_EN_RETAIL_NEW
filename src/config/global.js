@@ -184,7 +184,7 @@ export default {
     {
       termino: 'Pagos por aplicación móvil',
       significado:
-        'Esta es una aplicación (app) que te permite pagar desde tu celular sin llevar las tarjetas contigo, de forma más fácil y segura, en comercios con datafonos habilitados. Para hacer uso de esta tecnología debes descargar la aplicación en tu <em>Smartphone</em>, crear una cuenta e inscribir las tarjetas.',
+        'Esta es una aplicación (app) que te permite pagar desde tu celular sin llevar las tarjetas contigo, de forma más fácil y segura, en comercios con datáfonos habilitados. Para hacer uso de esta tecnología debes descargar la aplicación en tu <em>Smartphone</em>, crear una cuenta e inscribir las tarjetas.',
     },
     {
       termino: 'Reembolso de caja menor',
